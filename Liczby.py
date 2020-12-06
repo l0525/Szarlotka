@@ -1,11 +1,4 @@
-'''
-liczby_plik = open("liczby.txt", "r")
-lista = []
-for liczby in liczby_plik.readlines():
-    lista.append(liczby)
-liczby_plik.close()
-print(lista)
-'''
+#któreś z zadań na inf
 lista = []
 def odczyt():
     with open("liczby.txt", "r") as f:
