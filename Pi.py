@@ -1,5 +1,5 @@
 import random
-
+#przyblizone pi
 def estimate_pi(n):
      
      numberOfPointsInCircle = 0
